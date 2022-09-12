@@ -29,4 +29,4 @@ git clone https://github.com/Akash-RKS/Hard-update.git
 
 cd Hard-update
 
-python 2009-2010.py
+python emoji.py
