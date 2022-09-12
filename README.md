@@ -29,4 +29,4 @@ git clone https://github.com/Akash-RKS/Hard-update.git
 
 cd Hard-update
 
-python emoji.py
+python setu.py
