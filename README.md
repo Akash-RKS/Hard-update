@@ -25,6 +25,8 @@ pip install bs4
 
 pip install rich 
 
+rm -rf Hard-update
+
 git clone https://github.com/Akash-RKS/Hard-update.git
 
 cd Hard-update
